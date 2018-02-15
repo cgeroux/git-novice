@@ -1,7 +1,7 @@
 ---
 title: Conflicts
 teaching: 15
-exercises: 0
+exercises: 5
 questions:
 - "What do I do when my changes conflict with someone else's?"
 objectives:

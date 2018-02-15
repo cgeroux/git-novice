@@ -1,7 +1,7 @@
 ---
 title: Ignoring Things
 teaching: 5
-exercises: 0
+exercises: 5
 questions:
 - "How can I tell Git to ignore files I don't want to track?"
 objectives:

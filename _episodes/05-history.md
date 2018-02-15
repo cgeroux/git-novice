@@ -1,7 +1,7 @@
 ---
 title: Exploring History
 teaching: 25
-exercises: 0
+exercises: 10
 questions:
 - "How can I identify old versions of files?"
 - "How do I review my changes?"
