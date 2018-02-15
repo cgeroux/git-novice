@@ -1,7 +1,7 @@
 ---
 title: Collaborating
 teaching: 25
-exercises: 5
+exercises: 10
 questions:
 - "How can I use version control to collaborate with other people?"
 objectives:
